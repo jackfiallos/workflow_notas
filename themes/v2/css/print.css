@@ -1,0 +1,36 @@
+body {
+	margin: 10px 0 !important;
+	font-family: "Courier New", Courier, monospace !important;
+	font-size: 10px !important;
+	background-color: #fff !important;
+}
+
+body.withvernav {
+	background: inherit;
+}
+
+.noprint, .bodywrapper, .vernav2, .pageheader, .contenttitle2 {
+	display: none !important;
+}
+
+.centercontent {
+	margin: 0;
+}
+
+.table th {
+	background-color: #ECECEC !important;
+	color: #242424 !important;
+}
+
+body h2, body h4 {
+	font-family: "Courier New", Courier, monospace !important;
+	font-size: 10px;
+}
+
+.printOnly {
+  display: inherit !important;
+}
+
+.printtitle {
+	text-align: center;
+}

@@ -1,0 +1,36 @@
+body {
+	margin: 10px 0 !important;
+	font-family: "Courier New", Courier, monospace !important;
+	font-size: 10px !important;
+	background-color: #fff !important;
+}
+
+.navbar-fixed-top {
+	display: none;
+}
+
+.noprint {
+	display: none;
+}
+
+.btn {
+	display: none !important;
+}
+
+.table th {
+	background-color: #ECECEC !important;
+	color: #242424 !important;
+}
+
+body h2, body h4 {
+	font-family: "Courier New", Courier, monospace !important;
+	font-size: 10px;
+}
+
+.printOnly {
+  display: inherit !important;
+}
+
+.printtitle {
+	text-align: center;
+}
